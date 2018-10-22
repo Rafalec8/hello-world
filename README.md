@@ -1,2 +1,5 @@
 # hello-world
-Repo to learn
+
+Hi Hunans!
+
+Repo to learn GitHub
